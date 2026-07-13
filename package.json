@@ -1,0 +1,315 @@
+
+  {
+    "description": "U8C返回信息:错误:现金流量本币金额分析错误!\n",
+    "status": "失败"
+  }
+
+
+
+  {
+    "voucher": [
+      {
+        "pk_prepared": "18548113313",
+        "pk_vouchertype": "记账",
+        "pk_corp": "C06",
+        "prepareddate": "",
+        "pk_glorgbook": "C06-SGR-3",
+        "details": [
+          {
+            "ass": [
+              {
+                "checktypecode": "1",
+                "checkvaluecode": "C0600010002"
+              },
+              {
+                "checktypecode": "2",
+                "checkvaluecode": "C060001"
+              }
+            ],
+            "creditquantity": "",
+            "moneyass": "",
+            "money": "",
+            "pk_accsubj": "224102",
+            "localcreditamount": "",
+            "pk_currtype": "CNY",
+            "creditamount": "",
+            "localdebitamount": "120.72",
+            "explanation": "支付王志强报销款",
+            "debitquantity": "",
+            "debitamount": "120.72"
+          },
+          {
+            "ass": [
+              {
+                "checktypecode": "96",
+                "checkvaluecode": "1910000010120100190308"
+              }
+            ],
+            "creditquantity": "",
+            "moneyass": "",
+            "money": "",
+            "pk_accsubj": "100208",
+            "localcreditamount": "120.72",
+            "pk_currtype": "CNY",
+            "creditamount": "120.72",
+            "localdebitamount": "",
+            "explanation": "支付王志强报销款",
+            "debitquantity": "",
+            "debitamount": ""
+          },
+          {
+            "ass": [
+              {
+                "checktypecode": "1",
+                "checkvaluecode": "C0600010003"
+              },
+              {
+                "checktypecode": "2",
+                "checkvaluecode": "C060001"
+              }
+            ],
+            "creditquantity": "",
+            "moneyass": "",
+            "money": "",
+            "pk_accsubj": "224102",
+            "localcreditamount": "",
+            "pk_currtype": "CNY",
+            "creditamount": "",
+            "localdebitamount": "6200.00",
+            "explanation": "支付倩白报销款",
+            "debitquantity": "",
+            "debitamount": "6200.00"
+          },
+          {
+            "ass": [
+              {
+                "checktypecode": "96",
+                "checkvaluecode": "1910000010120100190308"
+              }
+            ],
+            "creditquantity": "",
+            "moneyass": "",
+            "money": "",
+            "pk_accsubj": "100208",
+            "localcreditamount": "6200.00",
+            "pk_currtype": "CNY",
+            "creditamount": "6200.00",
+            "localdebitamount": "",
+            "explanation": "支付倩白报销款",
+            "debitquantity": "",
+            "debitamount": ""
+          },
+          {
+            "ass": [
+              {
+                "checktypecode": "1",
+                "checkvaluecode": "C0100020005"
+              },
+              {
+                "checktypecode": "2",
+                "checkvaluecode": "C060004"
+              }
+            ],
+            "creditquantity": "",
+            "moneyass": "",
+            "money": "",
+            "pk_accsubj": "224102",
+            "localcreditamount": "",
+            "pk_currtype": "CNY",
+            "creditamount": "",
+            "localdebitamount": "2000.00",
+            "explanation": "支付贾哲报销款",
+            "debitquantity": "",
+            "debitamount": "2000.00"
+          },
+          {
+            "ass": [
+              {
+                "checktypecode": "96",
+                "checkvaluecode": "1910000010120100190308"
+              }
+            ],
+            "creditquantity": "",
+            "moneyass": "",
+            "money": "",
+            "pk_accsubj": "100208",
+            "localcreditamount": "2000.00",
+            "pk_currtype": "CNY",
+            "creditamount": "2000.00",
+            "localdebitamount": "",
+            "explanation": "支付贾哲报销款",
+            "debitquantity": "",
+            "debitamount": ""
+          },
+          {
+            "ass": [
+              {
+                "checktypecode": "1",
+                "checkvaluecode": "C0500030006"
+              },
+              {
+                "checktypecode": "2",
+                "checkvaluecode": "C060003"
+              }
+            ],
+            "creditquantity": "",
+            "moneyass": "",
+            "money": "",
+            "pk_accsubj": "224102",
+            "localcreditamount": "",
+            "pk_currtype": "CNY",
+            "creditamount": "",
+            "localdebitamount": "364.00",
+            "explanation": "支付杜帅武报销款",
+            "debitquantity": "",
+            "debitamount": "364.00"
+          },
+          {
+            "ass": [
+              {
+                "checktypecode": "96",
+                "checkvaluecode": "1910000010120100190308"
+              }
+            ],
+            "creditquantity": "",
+            "moneyass": "",
+            "money": "",
+            "pk_accsubj": "100208",
+            "localcreditamount": "364.00",
+            "pk_currtype": "CNY",
+            "creditamount": "364.00",
+            "localdebitamount": "",
+            "explanation": "支付杜帅武报销款",
+            "debitquantity": "",
+            "debitamount": ""
+          },
+          {
+            "ass": [
+              {
+                "checktypecode": "1",
+                "checkvaluecode": "C0600010006"
+              },
+              {
+                "checktypecode": "2",
+                "checkvaluecode": "C060001"
+              }
+            ],
+            "creditquantity": "",
+            "moneyass": "",
+            "money": "",
+            "pk_accsubj": "224102",
+            "localcreditamount": "",
+            "pk_currtype": "CNY",
+            "creditamount": "",
+            "localdebitamount": "61065.22",
+            "explanation": "支付赛娜报销款",
+            "debitquantity": "",
+            "debitamount": "61065.22"
+          },
+          {
+            "ass": [
+              {
+                "checktypecode": "96",
+                "checkvaluecode": "1910000010120100190308"
+              }
+            ],
+            "creditquantity": "",
+            "moneyass": "",
+            "money": "",
+            "pk_accsubj": "100208",
+            "localcreditamount": "61065.22",
+            "pk_currtype": "CNY",
+            "creditamount": "61065.22",
+            "localdebitamount": "",
+            "explanation": "支付赛娜报销款",
+            "debitquantity": "",
+            "debitamount": ""
+          },
+          {
+            "ass": [
+              {
+                "checktypecode": "1",
+                "checkvaluecode": "C0600020002"
+              },
+              {
+                "checktypecode": "2",
+                "checkvaluecode": "C060002"
+              }
+            ],
+            "creditquantity": "",
+            "moneyass": "",
+            "money": "",
+            "pk_accsubj": "224102",
+            "localcreditamount": "",
+            "pk_currtype": "CNY",
+            "creditamount": "",
+            "localdebitamount": "283.00",
+            "explanation": "支付高钟灵报销款",
+            "debitquantity": "",
+            "debitamount": "283.00"
+          },
+          {
+            "ass": [
+              {
+                "checktypecode": "96",
+                "checkvaluecode": "1910000010120100190308"
+              }
+            ],
+            "creditquantity": "",
+            "moneyass": "",
+            "money": "",
+            "pk_accsubj": "100208",
+            "localcreditamount": "283.00",
+            "pk_currtype": "CNY",
+            "creditamount": "283.00",
+            "localdebitamount": "",
+            "explanation": "支付高钟灵报销款",
+            "debitquantity": "",
+            "debitamount": ""
+          },
+          {
+            "ass": [
+              {
+                "checktypecode": "1",
+                "checkvaluecode": "C0600030010"
+              },
+              {
+                "checktypecode": "2",
+                "checkvaluecode": "C060003"
+              }
+            ],
+            "creditquantity": "",
+            "moneyass": "",
+            "money": "",
+            "pk_accsubj": "224102",
+            "localcreditamount": "",
+            "pk_currtype": "CNY",
+            "creditamount": "",
+            "localdebitamount": "514.00",
+            "explanation": "支付杨帆报销款",
+            "debitquantity": "",
+            "debitamount": "514.00"
+          },
+          {
+            "ass": [
+              {
+                "checktypecode": "96",
+                "checkvaluecode": "1910000010120100190308"
+              }
+            ],
+            "creditquantity": "",
+            "moneyass": "",
+            "money": "",
+            "pk_accsubj": "100208",
+            "localcreditamount": "514.00",
+            "pk_currtype": "CNY",
+            "creditamount": "514.00",
+            "localdebitamount": "",
+            "explanation": "支付杨帆报销款",
+            "debitquantity": "",
+            "debitamount": ""
+          }
+        ]
+      }
+    ]
+  }
