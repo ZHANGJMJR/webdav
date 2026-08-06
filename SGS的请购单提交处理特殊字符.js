@@ -1,3 +1,5 @@
+
+
 // 获取主表字段fieldId
     const lbFieldMark = formSdk.convertFieldNameToId("lb");
     // 绑定单个字段
@@ -13,10 +15,12 @@
         let str = String(text);
         str = str.replace(/\s+/g, '');
         str = str.replace(/\\/g, '＼');
-        str = str.replace(/"/g, '＂');
+        str = str.replace(/"/g, '“');
         str = str.replace(/,/g, '，');
         str = str.replace(/{/g, '《');
         str = str.replace(/}/g, '》');
+        str = str.replace(/;/g, '；');
+        str = str.replace(/:/g, '：');
         //str = str.replace(/|/g, '〡');
         return str;
     }
@@ -34,6 +38,8 @@
         }
     successFn();
 });
+
+
 
 
 
